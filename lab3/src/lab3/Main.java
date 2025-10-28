@@ -1,6 +1,9 @@
 package lab3;
 
 import java.util.Random;
+import lab3.model.*;
+import lab3.controller.ShapeController;
+import lab3.view.ShapeView;
 
 public class Main {
     public static void main(String[] args) {

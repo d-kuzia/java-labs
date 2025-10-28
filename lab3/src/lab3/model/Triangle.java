@@ -1,4 +1,4 @@
-package lab3;
+package lab3.model;
 
 public class Triangle extends Shape {
     private double base, height;

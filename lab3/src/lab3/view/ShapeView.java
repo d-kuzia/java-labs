@@ -1,4 +1,4 @@
-package lab3;
+package lab3.view;
 
 public class ShapeView {
     public void printTotalArea(double area) {

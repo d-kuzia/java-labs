@@ -1,4 +1,4 @@
-package lab3;
+package lab3.model;
 
 public class Rectangle extends Shape {
     private double width, height;

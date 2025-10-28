@@ -1,6 +1,9 @@
-package lab3;
+package lab3.controller;
 
 import java.util.Arrays;
+import lab3.model.Shape;
+import lab3.util.AreaComparator;
+import lab3.util.ColorComparator;
 
 public class ShapeController {
     private Shape[] shapes;
