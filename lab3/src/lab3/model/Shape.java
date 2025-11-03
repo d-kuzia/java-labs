@@ -1,6 +1,9 @@
 package lab3.model;
 
-public abstract class Shape implements Drawable {
+import java.io.Serializable;
+
+public abstract class Shape implements Drawable, Serializable {
+    private static final long serialVersionUID = 1L;
     protected String shapeColor;
 
     public Shape(String shapeColor) {
